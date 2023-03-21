@@ -3,6 +3,8 @@
 ! public: true
 ! author: KT
 
+$discard
+
 $boost=100,site=github.com
 $boost=100,site=gitlab.com
 $boost=100,site=sr.ht
