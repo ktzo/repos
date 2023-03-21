@@ -3,11 +3,13 @@
 ! public: true
 ! author: KT
 
-$discard
-
-$boost=100,site=github.com
-$boost=100,site=gitlab.com
-$boost=100,site=sr.ht
-$boost=100,site=codeberg.com
-$boost=100,site=gitlab.alpinelinux.com
+$boost=10,site=https://git.kernel.org/
+$boost=10,site=github.com
+$boost=10,site=github.io
+$boost=10,site=gitlab.com
+$boost=10,site=sourceforge.net
+$boost=10,site=https://chromium.googlesource.com
+$boost=10,site=sr.ht
+$boost=10,site=codeberg.com
+$boost=10,site=gitlab.alpinelinux.com
 
