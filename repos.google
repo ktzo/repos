@@ -1,0 +1,11 @@
+! name: Repos
+! description: Boost repos
+! public: true
+! author: KT
+
+$boost=100,site=github.com
+$boost=100,site=gitlab.com
+$boost=100,site=sr.ht
+$boost=100,site=codeberg.com
+$boost=100,site=gitlab.alpinelinux.com
+
