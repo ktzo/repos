@@ -3,6 +3,7 @@
 ! public: true
 ! author: KT
 
+$boost=20,site=https://wikipedia.org/
 $boost=10,site=https://git.kernel.org/
 $boost=10,site=github.com
 $boost=10,site=github.io
@@ -12,4 +13,3 @@ $boost=10,site=https://chromium.googlesource.com
 $boost=10,site=sr.ht
 $boost=10,site=codeberg.com
 $boost=10,site=gitlab.alpinelinux.com
-
